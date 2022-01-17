@@ -1,2 +1,3 @@
 # Benkyokai20210117
-勉強会のために共有するレポジトリ
+Terraform
+![構成図](https://user-images.githubusercontent.com/36359899/149702454-953084af-d576-415b-87e4-bb916838a22f.jpg)
