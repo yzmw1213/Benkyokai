@@ -1,0 +1,15 @@
+# terraform variables
+*.tfvars
+
+# terraform state
+terraform.tfstate
+terraform.tfstate.backup
+
+# local terraform files
+**/.terraform/*
+
+# keys
+keys
+
+# pycache
+**/__pycache__/
